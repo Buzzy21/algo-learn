@@ -1,2 +1,2 @@
 # algo-learn
-Common algorithmic patterns presented with problems
+Common competitive programming algorithmic patterns presented with iconic problems
