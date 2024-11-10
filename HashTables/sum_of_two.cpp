@@ -5,7 +5,7 @@ THIS IS ALSO KNOWN AS TWO SUM
 
 */
 
-#include <bits/stdc++.h> //<- beware!
+#include <bits/stdc++.h> //<- Beware!
 using namespace std;
 
 pair<int,int> sumOfTwo(vector<int> nums, int target) {
@@ -40,6 +40,7 @@ pair<int,int> sumOfTwo(vector<int> nums, int target) {
        mp[current] = i;
    }
 
+    // No solution available
    return {-1,-1};
 }
 
